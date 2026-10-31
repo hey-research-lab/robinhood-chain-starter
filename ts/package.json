@@ -1,0 +1,24 @@
+{
+  "name": "robinhood-chain-starter-ts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Read-only viem scripts for Robinhood Chain (chain id 4663).",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "chain-info": "tsx src/chain-info.ts",
+    "multicall": "tsx src/multicall.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "viem": "2.57.7"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  }
+}
