@@ -138,7 +138,7 @@ console.log(await client.getBlockNumber())
 
 ## Get your project seen
 
-Building on Robinhood Chain? List your project on [HEY Research](https://heyresearch.xyz), the public record of building on Robinhood Chain.
+Building on Robinhood Chain? List your project on [HEY Research Lab](https://heyresearch.xyz), the public record of building on Robinhood Chain — every ship with its source.
 
 ## License
 
